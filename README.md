@@ -1,4 +1,4 @@
-{
+817442092b36d9a2858d7906fca815dcc333b9fa{
   "name": "sbtc-payment-gateway",
   "version": "1.0.0",
   "description": "sBTC payment gateway for Stacks Challenge",
