@@ -42,4 +42,3 @@ Build an MVP that lets any business easily accept Bitcoin payments using sBTC on
    ```bash
    git clone https://github.com/Adnanmd76/sbtc-payment-gateway.git
    cd sbtc-payment-gateway
-  ل
