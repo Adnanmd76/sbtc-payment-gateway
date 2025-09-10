@@ -52,3 +52,4 @@ Watch the demo video to see the sBTC payment gateway in action:
    ```bash
    git clone https://github.com/Adnanmd76/sbtc-payment-gateway.git
    cd sbtc-payment-gateway
+npm install
